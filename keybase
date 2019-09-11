@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am vadim-dot on github.
+  * I am neoprobro (https://keybase.io/neoprobro) on keybase.
+  * I have a public key ASAQsF0dEuDKpd5s2lA-jtxO25F_-5MYFFesYpXXmnmpxQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012010b05d1d12e0caa5de6cda503e8edc4edb917ffb93181457ac6295d79a79a9c50a",
+      "host": "keybase.io",
+      "kid": "012010b05d1d12e0caa5de6cda503e8edc4edb917ffb93181457ac6295d79a79a9c50a",
+      "uid": "1d675f93bdd525335b7abc70c1eaf519",
+      "username": "neoprobro"
+    },
+    "merkle_root": {
+      "ctime": 1568217728,
+      "hash": "0a0d29291532d077000f8dc6ef36ce6ef73612e2d67096d26a33d7527652fd4cc99cc5ce23de6065e0e71287d441f55fb555f26df80f330ec6114073b8af12a0",
+      "hash_meta": "dc601aa94f06f81091e757bec1bcf47dd2d2d8cad61322d51d5ca2cc74bdc873",
+      "seqno": 6754516
+    },
+    "service": {
+      "entropy": "2aCSKR1q6uCZGXOiM/3FJgqV",
+      "name": "github",
+      "username": "vadim-dot"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568218183,
+  "expire_in": 504576000,
+  "prev": "6cc32ea2e0c3024aa92f8ff830eccdfeaa7aeb48aa4cef145800de86010fd466",
+  "seqno": 10,
+  "tag": "signature"
+}
+```
+
+with the key [ASAQsF0dEuDKpd5s2lA-jtxO25F_-5MYFFesYpXXmnmpxQo](https://keybase.io/neoprobro), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgELBdHRLgyqXebNpQPo7cTtuRf/uTGBRXrGKV15p5qcUKp3BheWxvYWTESpcCCsQgbMMuouDDAkqpL4/4MOzN/qp660iqTO8UWADehgEP1GbEIJEhkOs4YSmtOgAiO9vxWMxdJL2a3I6HNyBv6hNawvheAgHCo3NpZ8RADRh5GMWB0RlRVx47tf6SPldj+GpIGTuEpQuOLnyjT1nLfIaPmE2y5WT2QE42CbDjgGlQFvctUCfyBZrqvjpjBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP3DgEsCpMxw/A/tKkyf0xmtUlNjmFCDBzZnX+7XGx/6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/neoprobro
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id neoprobro
+```
